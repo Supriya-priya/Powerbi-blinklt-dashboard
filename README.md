@@ -3,7 +3,7 @@
 Welcome to the Blinkit Dashboard Overview project! 🎉 This repository contains a comprehensive Power BI dashboard that answers key business questions and provides actionable insights using sales data, outlet performance, product categories, and consumer health preferences.
 
 📊 Project Overview
-This dashboard helps stakeholders track key performance metrics such as total sales, average sales, number of items, and average ratings across various outlet types, sizes, and locations.
+The Blinkit Dashboard aims to explore sales performance across multiple dimensions, including outlet types, locations, and product categories. By visualizing these metrics, the dashboard provides insights into key trends, consumer behaviors, and opportunities for business improvement.
 
 Using interactive filters and visualizations, the dashboard empowers users to:
 

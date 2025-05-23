@@ -59,7 +59,4 @@ The data used for the dashboard comes from Blinkit, including a combination of *
 - **DATA SOURCES:** Data from Blinkit’s internal sales, outlet, and consumer preference datasets.
 
 
-⚙️ Technologies Used
-Power BI: 💻 Main tool for data visualization and dashboard creation.
-Excel/CSV: 🗃️ Used for cleaning, preprocessing, and preparing the data before it was imported into Power BI.
-Data Sources: Data from Blinkit’s internal sales, outlet, and consumer preference datasets.
+
